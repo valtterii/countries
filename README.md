@@ -1,7 +1,7 @@
 # Search information about countries
 API used: https://restcountries.com
 
-![countries](demo.gif)
+![countries](countries.gif)
 
 # Getting Started with Create React App
 
