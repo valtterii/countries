@@ -1,7 +1,6 @@
 # Search information about countries
 API used: https://restcountries.com
-
-![countries](countries.gif)
+Live: restcountries-exercise.netlify.app
 
 # Getting Started with Create React App
 
